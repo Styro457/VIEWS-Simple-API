@@ -3,7 +3,6 @@
 
   <a href="">![GitHub Release](https://img.shields.io/github/v/release/Styro457/VIEWS-Simple-API)</a>
   <a href="">![GitHub License](https://img.shields.io/github/license/Styro457/VIEWS-Simple-API)</a>
-  <a href="">[![demo](https://img.shields.io/endpoint?url=https://google.com)](https://yourdomain.com)</a>
 
 </div>
 
